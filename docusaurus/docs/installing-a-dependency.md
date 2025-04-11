@@ -1,3 +1,4 @@
+npm install @react-three/fiber @react-three/drei three
 ---
 id: installing-a-dependency
 title: Installing a Dependency
